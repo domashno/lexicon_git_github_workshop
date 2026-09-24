@@ -121,4 +121,5 @@ Markdown is a simple, flexible, and powerful language for creating documents and
 - *Italic Text:* `*Italic*`
 - `Inline Code:` `` `Code` ``
 - [Hyperlink Example](https://example.com)
-small update from workshop 
+- small update from workshop 
+- adding extra tpyos for able to fix by other tsudents
